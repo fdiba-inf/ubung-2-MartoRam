@@ -6,7 +6,7 @@ public class DayOfWeek {
         int number = input.nextInt();
         if (number==1)
         {
-            System.out.println("Day of week: "+"Monday");
+             System.out.println("Day of week: "+"Monday");
         }
         else if (number==2)
         {
