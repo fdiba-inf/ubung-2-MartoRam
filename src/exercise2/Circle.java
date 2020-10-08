@@ -6,7 +6,7 @@ public class Circle {
         double r=input.nextInt();
         double c=2*r*Math.PI;
         double a=r*r*Math.PI;
-        System.out.println("Circumference= "+c);
-        System.out.print("Area= "+a);
+        System.out.println("Circumference: "+c);
+        System.out.print("Area: "+a);
     }
 }
