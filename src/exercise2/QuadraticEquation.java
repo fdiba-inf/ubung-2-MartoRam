@@ -13,8 +13,8 @@ public class QuadraticEquation {
         {
             if (D>=0)
             {
-                System.out.println("X1=" + x1);
-                System.out.println("X2="+x2);
+
+                System.out.println(x2+", "+x1);
             }
             else
             {
