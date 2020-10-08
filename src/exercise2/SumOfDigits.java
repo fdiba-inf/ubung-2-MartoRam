@@ -8,7 +8,7 @@ public class SumOfDigits {
         int seconddig=(number%100)/10;
         int thirddig=number/100;
         int SumOfDig=firstdig+seconddig+thirddig;
-        System.out.println(SumOfDig);
+        System.out.println("Sum of digits:"+SumOfDig);
 
     }
 }
